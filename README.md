@@ -17,3 +17,20 @@ Key Features:
  (4)Search Contact: Search for a contact by name or phone number.
  (5)Delete Contact: Remove an existing contact from the contact book.
  (6)Count Contacts: Display the total number of contacts in the contact book.
+
+
+ (4). Projec To-Do Task App:
+Objective:
+Develop a simple command-line To-Do Task App using Python that allows users to manage their daily tasks efficiently. The app will enable users to add tasks, update them, delete tasks, and view all tasks for the day.
+Features:
+(1)Add Tasks:
+Users can create new tasks by providing a task description.
+Each task will be stored with a unique task ID and its creation timestamp.
+(2)View Tasks:
+Users can view all tasks in a list format, displaying each task's ID, description, and status (e.g., pending or completed).
+Option to view tasks either sorted by creation time or by task status.
+(3)Update Tasks:
+Users can update task descriptions if there are any changes.
+Users can also mark tasks as completed once finished.
+(4)Delete Tasks:
+Users can delete a task from the list using its unique ID
